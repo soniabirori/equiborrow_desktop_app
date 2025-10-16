@@ -28,7 +28,6 @@ EquiBorrow is a desktop-based equipment borrowing management system designed to 
 
 - `Forms/` — UI forms like Login, Registration, EquipmentForm  
 - `Models/` — Database interaction logic  
-- `Resources/` — Icons, images, and styling assets
 
 ## 👩‍💻 Author
 
